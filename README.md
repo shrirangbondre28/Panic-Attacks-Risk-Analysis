@@ -12,6 +12,11 @@ This project explores behavioral and lifestyle factors associated with panic att
 - [Tools & Technologies](#tools--technologies)
 
 ## Project Overview
+Panic attacks can be influenced by multiple behavioral and physiological factors. This dashboard analyzes a healthcare dataset to understand how variables such as sleep duration, panic duration, and lifestyle indicators relate to panic attack severity.
+
+The goal is to help identify potential risk patterns that may assist healthcare professionals in understanding patient conditions and early risk indicators.
+
+## Problem Statement
 Understanding panic attack patterns requires analyzing multiple behavioral indicators. This project investigates:
 
 - Distribution of panic severity among patients
