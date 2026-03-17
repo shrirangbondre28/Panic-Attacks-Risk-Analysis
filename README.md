@@ -44,4 +44,4 @@ Key attributes include:
 
 - Trigger Reason
 
-- Lifestyle indicators
+- Lifestyle Indicators
