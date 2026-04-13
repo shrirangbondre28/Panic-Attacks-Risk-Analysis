@@ -45,3 +45,33 @@ Key attributes include:
 - Trigger Reason
 
 - Lifestyle Indicators
+
+## Data Cleaning & Preparation
+Data preparation was performed using Power Query.
+
+Steps included:
+
+- Data type corrections
+- Handling missing values
+- Creating calculated columns
+- Categorizing sleep duration
+- Preparing panic score classifications
+
+## Data Modeling 
+Data Modeling
+
+A structured data model was built to support efficient analysis.
+
+Techniques used:
+
+- Calculated columns
+- DAX measures
+- Aggregation metrics
+- Behavioral categorization logic
+
+Example measures created:
+
+- High Risk Patient Ratio
+- Average Panic Duration
+- Average Sleep Hours
+- Total Patients
